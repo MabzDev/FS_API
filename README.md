@@ -5,6 +5,10 @@ PHP-API-JWT
 
 A simple program to create API for Signup, Signin, Update and List the User Details
 
+Database
+=================
+Import Database file db.mysql to PhpMyadmin for the process to run smooth
+
 
 How to use the API URLs
 =============================================
